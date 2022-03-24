@@ -8,4 +8,3 @@ Porfolio projects:
 - [JavaScript: Custom base64 lib](https://gitlab.com/jeremymreed/base64-javascript): A simple base64 library for JavaScript, with support for custom alphabets.
 - [Rust: Custom base64 lib](https://gitlab.com/jeremymreed/base64-lib): A simple base64 library for Rust, with support for custom alphabets.
 
-<img align="left" alt="jeremymreed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeremymreed&show_icons=true&hide_border=true&count_private=true" />
